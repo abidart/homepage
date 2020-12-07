@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Milan, Italy"
   date_start = "2019-08"
   date_end = "2020-10"
-  // description = """
-  // Responsibilities include:
-  
-  // * Analysing
-  // * Modelling
-  // * Deploying
+  description = """
   """
 
 [[experience]]
