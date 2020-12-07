@@ -1,6 +1,6 @@
 ---
 title: Alan Bidart
-role: Software Engineer at Bending Spoons
+role: Computer Scientist and Software Engineer
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
