@@ -1,6 +1,6 @@
 ---
 title: Alan Bidart
-role: Computer Scientist and Software Engineer
+role: Software Engineer
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: Bending Spoons
     url: ""
 education:
   courses:
