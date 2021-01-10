@@ -12,6 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon_pack: fas
+    icon: linkedin
+    link: https://www.linkedin.com/in/alanbidart/
 organizations: []
 education:
   courses:
