@@ -1,7 +1,7 @@
 ---
 title: Alan Bidart
 role: Software Engineer
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include human-computer interaction and morality in
   emerging technologies.
 interests:
@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon_pack: fas
+  - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/alanbidart/
 organizations: []
